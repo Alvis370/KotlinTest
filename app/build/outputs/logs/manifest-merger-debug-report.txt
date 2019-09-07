@@ -1,15 +1,17 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:2:1-34:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\92d91bde83bd15a5fac9900e78109a87\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\059556a05827d6586be9c9eccebdc03e\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\47b3ace535532065cddd5eb93078e6c0\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\ff0b3f2f325ecb86343590aabed8e726\circleimageview-3.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\8c6756f95f8483c6558dc754553f7f45\circleimageview-3.0.1\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\27f9952372a3e44e27a1fac4fa729792\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\bebf51f9a466595da20d255cc7b09878\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\dd2b9dfbc1847c3ffcf5f3e6151a7e38\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\fa8807f216759b581d277d4db7ad7d69\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\0f68898f8087321b4f4720b76a4a3e52\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
 MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\e8a81c48f255a001000d299b721dc992\rxandroid-2.0.2\AndroidManifest.xml:15:1-21:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\fb4efceced1eff80db3086998de6e1ba\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -36,41 +38,48 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lige3\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\d85898843f8233f124f86e7cf5090125\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\c5a82da9fefaa66e35244ef28fccb8b1\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\c40a968924f28375211959196111fb36\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\a482df44b574a671af5dc7bcafcdea05\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\deeef9698736c76e323eb6a29d8397a3\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\d1a6bff7979076c5f72ff391386b4671\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\0a2bcc9425cdeccdda9d8a88f935d7c7\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\5b1abc756c455440d1306b5a2ed29c30\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:4:9-45
-		INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:4:9-45
+		INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:2:1-31:12
-		INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
 	xmlns:dist
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:3:9-65
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:3:9-65
 	android:versionCode
-		INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:2:1-31:12
-		INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:6:22-64
 dist:module
-ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:6:5-40
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:8:5-40
 	dist:instant
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:6:18-37
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:8:18-37
 application
-ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:8:5-29:19
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:10:5-32:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\47b3ace535532065cddd5eb93078e6c0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\47b3ace535532065cddd5eb93078e6c0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\ff0b3f2f325ecb86343590aabed8e726\circleimageview-3.0.0\AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\ff0b3f2f325ecb86343590aabed8e726\circleimageview-3.0.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\8c6756f95f8483c6558dc754553f7f45\circleimageview-3.0.1\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\8c6756f95f8483c6558dc754553f7f45\circleimageview-3.0.1\AndroidManifest.xml:9:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\bebf51f9a466595da20d255cc7b09878\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\bebf51f9a466595da20d255cc7b09878\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\fa8807f216759b581d277d4db7ad7d69\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\fa8807f216759b581d277d4db7ad7d69\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\0f68898f8087321b4f4720b76a4a3e52\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\0f68898f8087321b4f4720b76a4a3e52\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
 MERGED from [androidx.core:core:1.0.2] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\d9bd96b2569e3ba87e80332a11daa1fa\core-1.0.2\AndroidManifest.xml:22:5-89
@@ -79,68 +88,78 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\li
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\be60455a42a79dbee607e449004f300a\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\61c0bdfc68f17531271cbb924fe1302f\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\61c0bdfc68f17531271cbb924fe1302f\lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\a482df44b574a671af5dc7bcafcdea05\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\a482df44b574a671af5dc7bcafcdea05\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.2] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\d9bd96b2569e3ba87e80332a11daa1fa\core-1.0.2\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:13:13-39
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:15:13-39
 	android:label
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:11:13-45
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:13:13-45
 	android:roundIcon
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:12:13-58
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:14:13-58
 	android:icon
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:10:13-47
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:12:13-47
 	android:allowBackup
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:9:13-39
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:11:13-39
 	android:theme
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:14:13-44
-activity#com.illuminator.kotlintest.copy.CopyActivity
-ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:15:9-54
-	android:name
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:15:19-52
-activity#com.illuminator.kotlintest.chat.ChatActivity
-ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:16:9-55
-	android:name
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:16:19-52
-activity#com.illuminator.kotlintest.main.KotlinTestActivity
-ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:17:9-61
-	android:name
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:17:19-58
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:16:13-44
 activity#com.illuminator.kotlintest.main.TestActivity
-ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:18:9-24:20
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:17:9-54
 	android:name
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:18:19-52
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:17:19-52
+activity#com.illuminator.kotlintest.copy.CopyActivity
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:18:9-55
+	android:name
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:18:19-52
+activity#com.illuminator.kotlintest.chat.ChatActivity
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:19:9-55
+	android:name
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:19:19-52
+activity#com.illuminator.kotlintest.main.KotlinTestActivity
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:20:19-58
+activity#com.illuminator.kotlintest.test2.Test2Activity
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:21:19-54
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:25:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:26:9-28:61
+ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:29:9-31:61
 	android:resource
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:28:17-58
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:31:17-58
 	android:name
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml:27:17-47
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml:30:17-47
 uses-sdk
-INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\92d91bde83bd15a5fac9900e78109a87\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\92d91bde83bd15a5fac9900e78109a87\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\059556a05827d6586be9c9eccebdc03e\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\059556a05827d6586be9c9eccebdc03e\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\47b3ace535532065cddd5eb93078e6c0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\47b3ace535532065cddd5eb93078e6c0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\ff0b3f2f325ecb86343590aabed8e726\circleimageview-3.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\ff0b3f2f325ecb86343590aabed8e726\circleimageview-3.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\8c6756f95f8483c6558dc754553f7f45\circleimageview-3.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\8c6756f95f8483c6558dc754553f7f45\circleimageview-3.0.1\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\27f9952372a3e44e27a1fac4fa729792\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\27f9952372a3e44e27a1fac4fa729792\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\bebf51f9a466595da20d255cc7b09878\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\bebf51f9a466595da20d255cc7b09878\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\dd2b9dfbc1847c3ffcf5f3e6151a7e38\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\dd2b9dfbc1847c3ffcf5f3e6151a7e38\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\fa8807f216759b581d277d4db7ad7d69\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\fa8807f216759b581d277d4db7ad7d69\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\0f68898f8087321b4f4720b76a4a3e52\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\0f68898f8087321b4f4720b76a4a3e52\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
 MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\e8a81c48f255a001000d299b721dc992\rxandroid-2.0.2\AndroidManifest.xml:19:5-43
@@ -193,6 +212,8 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lige3\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\c5a82da9fefaa66e35244ef28fccb8b1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\c40a968924f28375211959196111fb36\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\c40a968924f28375211959196111fb36\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\a482df44b574a671af5dc7bcafcdea05\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\a482df44b574a671af5dc7bcafcdea05\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\deeef9698736c76e323eb6a29d8397a3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\deeef9698736c76e323eb6a29d8397a3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\d1a6bff7979076c5f72ff391386b4671\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
@@ -201,16 +222,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\lige3\.gradle\caches\transform
 MERGED from [androidx.print:print:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\0a2bcc9425cdeccdda9d8a88f935d7c7\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\5b1abc756c455440d1306b5a2ed29c30\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\5b1abc756c455440d1306b5a2ed29c30\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\lige3\AndroidStudioProjects\More\KotlinTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lige3\AndroidStudioProjects\GitProjects\KotlinTest\app\src\main\AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\lige3\.gradle\caches\transforms-2\files-2.1\61c0bdfc68f17531271cbb924fe1302f\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
 	android:authorities

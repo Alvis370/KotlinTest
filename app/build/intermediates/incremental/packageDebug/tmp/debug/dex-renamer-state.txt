@@ -1,4 +1,4 @@
-#Sat Aug 24 22:15:01 EDT 2019
-base.0=C\:\\Users\\lige3\\AndroidStudioProjects\\More\\KotlinTest\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Mon Aug 26 21:58:01 EDT 2019
+base.0=C\:\\Users\\lige3\\AndroidStudioProjects\\GitProjects\\KotlinTest\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

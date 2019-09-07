@@ -140,6 +140,11 @@ attr editTextStyle
 attr elevation
 attr emptyVisibility
 attr expandActivityOverflowButtonDrawable
+attr fastScrollEnabled
+attr fastScrollHorizontalThumbDrawable
+attr fastScrollHorizontalTrackDrawable
+attr fastScrollVerticalThumbDrawable
+attr fastScrollVerticalTrackDrawable
 attr firstBaselineToTopHeight
 attr font
 attr fontFamily
@@ -170,6 +175,7 @@ attr itemPadding
 attr keylines
 attr lastBaselineToBottomHeight
 attr layout
+attr layoutManager
 attr layout_anchor
 attr layout_anchorGravity
 attr layout_behavior
@@ -267,6 +273,7 @@ attr radioButtonStyle
 attr ratingBarStyle
 attr ratingBarStyleIndicator
 attr ratingBarStyleSmall
+attr reverseLayout
 attr searchHintIcon
 attr searchIcon
 attr searchViewStyle
@@ -278,11 +285,13 @@ attr showDividers
 attr showText
 attr showTitle
 attr singleChoiceItemLayout
+attr spanCount
 attr spinBars
 attr spinnerDropDownItemStyle
 attr spinnerStyle
 attr splitTrack
 attr srcCompat
+attr stackFromEnd
 attr state_above_anchor
 attr statusBarBackground
 attr subMenuArrow
@@ -524,6 +533,9 @@ dimen compat_notification_large_icon_max_height
 dimen compat_notification_large_icon_max_width
 dimen disabled_alpha_material_dark
 dimen disabled_alpha_material_light
+dimen fastscroll_default_thickness
+dimen fastscroll_margin
+dimen fastscroll_minimum_range
 dimen highlight_alpha_material_colored
 dimen highlight_alpha_material_dark
 dimen highlight_alpha_material_light
@@ -531,6 +543,9 @@ dimen hint_alpha_material_dark
 dimen hint_alpha_material_light
 dimen hint_pressed_alpha_material_dark
 dimen hint_pressed_alpha_material_light
+dimen item_touch_helper_max_drag_scroll_per_frame
+dimen item_touch_helper_swipe_escape_max_velocity
+dimen item_touch_helper_swipe_escape_velocity
 dimen notification_action_icon_size
 dimen notification_action_text_size
 dimen notification_big_circle_margin
@@ -693,6 +708,7 @@ id alertTitle
 id all
 id always
 id async
+id avatar_circleimageview
 id barrier
 id beginning
 id blocking
@@ -719,6 +735,7 @@ id customPanel
 id decideButton
 id decor_content_parent
 id default_activity_button
+id description_textview
 id dimensions
 id direct
 id disableHome
@@ -735,6 +752,7 @@ id forever
 id fragmentContainer
 id fragmentOneBtn
 id fragmentTwoBtn
+id glide_custom_view_target_tag
 id goToActivityBtn
 id gone
 id group_divider
@@ -749,6 +767,7 @@ id imageView2
 id info
 id invisible
 id italic
+id item_touch_helper_previous_elevation
 id left
 id line1
 id line3
@@ -758,6 +777,7 @@ id media_actions
 id message
 id middle
 id multiply
+id name_textview
 id never
 id none
 id normal
@@ -772,6 +792,8 @@ id profile_image
 id progress_circular
 id progress_horizontal
 id radio
+id recyclerview_linearLayout
+id recyclerview_test
 id right
 id right_icon
 id right_side
@@ -867,9 +889,11 @@ layout abc_tooltip
 layout activity_copy
 layout activity_main
 layout activity_test
+layout activity_test2
 layout chat_activity
 layout fragment_test
 layout fragment_test_2
+layout item_recyclerview
 layout my_popup_view
 layout notification_action
 layout notification_action_tombstone
@@ -1327,6 +1351,7 @@ styleable MenuView android_windowAnimationStyle android_itemTextAppearance andro
 styleable PopupWindow android_popupBackground android_popupAnimationStyle overlapAnchor
 styleable PopupWindowBackgroundState state_above_anchor
 styleable RecycleListView paddingBottomNoButtons paddingTopNoTitle
+styleable RecyclerView android_orientation android_descendantFocusability fastScrollEnabled fastScrollHorizontalThumbDrawable fastScrollHorizontalTrackDrawable fastScrollVerticalThumbDrawable fastScrollVerticalTrackDrawable layoutManager reverseLayout spanCount stackFromEnd
 styleable SearchView android_focusable android_maxWidth android_inputType android_imeOptions closeIcon commitIcon defaultQueryHint goIcon iconifiedByDefault layout queryBackground queryHint searchHintIcon searchIcon submitBackground suggestionRowLayout voiceIcon
 styleable Spinner android_entries android_popupBackground android_prompt android_dropDownWidth popupTheme
 styleable StateListDrawable android_dither android_visible android_variablePadding android_constantSize android_enterFadeDuration android_exitFadeDuration

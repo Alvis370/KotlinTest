@@ -45,7 +45,6 @@ public class CopyActivity extends AppCompatActivity implements CopyContract.Copy
 
         myDialogView = new MyDialogView(this);
         myDialogView.show(this, "whatever", "message", true, this);
-        //this is a test
     }
 
     @Override

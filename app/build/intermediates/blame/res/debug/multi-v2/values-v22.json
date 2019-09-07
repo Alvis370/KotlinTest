@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\lige3\\AndroidStudioProjects\\More\\KotlinTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "outputFile": "C:\\Users\\lige3\\AndroidStudioProjects\\GitProjects\\KotlinTest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
                     "source": "C:\\Users\\lige3\\.gradle\\caches\\transforms-2\\files-2.1\\92d91bde83bd15a5fac9900e78109a87\\appcompat-1.0.2\\res\\values-v22\\values-v22.xml",
